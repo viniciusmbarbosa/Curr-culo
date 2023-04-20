@@ -39,7 +39,7 @@ header{
 }
 .perfil{
     
-    width: 250px;
+    width: 100%;
     
 }
 .sobre-mim{
@@ -79,9 +79,9 @@ span{
 
 }
 nav { 
+    
     display: flex;
     /* flex: 1;  */
-    height: 500px; 
     
 }
 nav ul{ 
@@ -94,6 +94,7 @@ nav ul{
 }
 #nave{
     /* height: 100%; */
+    height: 100%; 
     
 }
 li{
@@ -101,7 +102,7 @@ li{
     max-height: 100%;
     border: solid rgba(218, 207, 207, 0.621) 1px;
     width: 60px;
-    height:76px
+    height:83px
 }
 
 li a {
